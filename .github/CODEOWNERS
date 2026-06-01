@@ -1,0 +1,24 @@
+# Data layer: models, local storage, network clients, repositories, and DI.
+/app/src/main/java/com/travelai/data/ @nguyenhuunghia10t1-creator
+/app/src/main/java/com/travelai/di/ @nguyenhuunghia10t1-creator
+/app/schemas/ @nguyenhuunghia10t1-creator
+
+# Core UI: chat, planner, itinerary, and history.
+/app/src/main/java/com/travelai/ui/chat/ @truongthinh994
+/app/src/main/java/com/travelai/ui/planner/ @truongthinh994
+/app/src/main/java/com/travelai/ui/itinerary/ @truongthinh994
+/app/src/main/java/com/travelai/ui/history/ @truongthinh994
+
+# Secondary features: map, weather, landmark scanner, profile, settings, and sharing.
+/app/src/main/java/com/travelai/ui/map/ @AnhKhoaDoan
+/app/src/main/java/com/travelai/ui/weather/ @AnhKhoaDoan
+/app/src/main/java/com/travelai/ui/landmark/ @AnhKhoaDoan
+/app/src/main/java/com/travelai/ui/profile/ @AnhKhoaDoan
+/app/src/main/java/com/travelai/ui/settings/ @AnhKhoaDoan
+/app/src/main/java/com/travelai/ui/share/ @AnhKhoaDoan
+
+# Workflow documents require cross-team review.
+/README.md @nguyenhuunghia10t1-creator @AnhKhoaDoan
+/CONTRIBUTING.md @truongthinh994 @AnhKhoaDoan
+/docs/ @truongthinh994 @nguyenhuunghia10t1-creator @AnhKhoaDoan
+/.github/ @truongthinh994 @nguyenhuunghia10t1-creator @AnhKhoaDoan
